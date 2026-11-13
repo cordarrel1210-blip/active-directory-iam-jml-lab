@@ -1,4 +1,4 @@
-# active-directory-iam-jml-lab# Active Directory IAM Lifecycle Lab
+# Active Directory IAM Lifecycle Lab
 
 I simulated an employee joining HR, transferring to Finance, and leaving
 the company in an on-premises Active Directory lab. I used Global security
